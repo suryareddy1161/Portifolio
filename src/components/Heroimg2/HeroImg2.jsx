@@ -1,8 +1,13 @@
 import React from 'react'
 import { Component } from 'react'
 import "./HeroImg2.css"
+
+
 class HeroImg2 extends Component {
+  
+    
     render() {
+        
         return (
             <div className='hero-img'>
                 <div className='heading'>

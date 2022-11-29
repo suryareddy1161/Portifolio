@@ -1,9 +1,7 @@
-
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
     position: fixed;
     width: 100%;
     z-index: 10;
@@ -24,6 +22,10 @@
 }
 .hamburger{
     display: none;
+}
+.togg{
+    margin-right: 40px;
+    color: white;
 }
 
 @media screen and (max-width: 1040px){
@@ -51,6 +53,7 @@
     }
     .hamburger{
         display: initial;
+        margin-right: 0%;
     }
     
 }
