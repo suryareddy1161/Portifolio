@@ -24,7 +24,6 @@
     display: none;
 }
 .togg{
-    margin-right: 40px;
     color: white;
 }
 
@@ -53,7 +52,7 @@
     }
     .hamburger{
         display: initial;
-        margin-right: 0%;
+        
     }
     
 }

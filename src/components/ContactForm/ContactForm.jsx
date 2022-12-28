@@ -27,7 +27,7 @@ const ContactForm = () => {
   if (submitted) {
     Swal.fire(
       'Thank you💙💚🧡!',
-      'We will be in touch soon!',
+      'I will be in touch soon!',
     )
   }
   else {
